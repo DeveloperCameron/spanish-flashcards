@@ -1,0 +1,22 @@
+[
+  {"es": "el perro", "en": "the dog"},
+  {"es": "la casa", "en": "the house"},
+  {"es": "comer", "en": "to eat"},
+  {"es": "beber", "en": "to drink"},
+  {"es": "el amigo", "en": "the friend"},
+  {"es": "hablar", "en": "to speak"},
+  {"es": "el trabajo", "en": "the job / work"},
+  {"es": "la escuela", "en": "the school"},
+  {"es": "ayer", "en": "yesterday"},
+  {"es": "mañana", "en": "tomorrow"},
+  {"es": "el dinero", "en": "the money"},
+  {"es": "necesitar", "en": "to need"},
+  {"es": "el coche", "en": "the car"},
+  {"es": "la calle", "en": "the street"},
+  {"es": "buscar", "en": "to look for"},
+  {"es": "encontrar", "en": "to find"},
+  {"es": "el tiempo", "en": "the time / weather"},
+  {"es": "empezar", "en": "to start"},
+  {"es": "terminar", "en": "to finish"},
+  {"es": "el viaje", "en": "the trip"}
+]
